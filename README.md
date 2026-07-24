@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmaudoCity
-- 👀 I’m interested in Computer Science and Electronics Technology..
+- 👀 I’m interested in Computer Science and Electrical and Electronics Engineering [Technology..]
 - 🌱 I’m currently learning Web Programming with Python and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jonakere@gmail.com...
